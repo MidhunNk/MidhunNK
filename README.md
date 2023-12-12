@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Website Development**
+- 👯 I’m looking to collaborate on **FireBase**
 
 - 🤝 I’m looking for help with **AI**
 
-- 💬 Ask me about **C,HTML**
+- 💬 Ask me about **C,Flutter,Java,Python**
 
 - 📫 How to reach me **Midhunnk2019@gmail.com**
 
